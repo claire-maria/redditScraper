@@ -6,7 +6,7 @@ reddit = praw.Reddit(client_id='wHT8kEmws_FWWQ', \
                      client_secret='4VBpGRWTUMqA8UQb5AfLMyMh8QY', \
                      user_agent='scraper', \
                      username='xxxxxxxxxxx', \
-                     password='xxxxxxxxxxxxxxxxxxxxxxxxxxx)
+                     password='xxxxxxxxxxxxxxxxxxxxxxxxxxx')
                     
                     
 subreddit = reddit.subreddit('nottheonion')
